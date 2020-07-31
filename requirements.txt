@@ -1,0 +1,11 @@
+pyrouge
+numpy
+transformers
+torch
+sacrebleu
+fairseq==0.9.0
+nltk
+pandas
+xlrd
+rouge-score
+pytorch-lightning==0.8.5
