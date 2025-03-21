@@ -8,4 +8,4 @@ nltk
 pandas
 xlrd
 rouge-score
-pytorch-lightning==0.8.5
+pytorch-lightning==2.4.0
